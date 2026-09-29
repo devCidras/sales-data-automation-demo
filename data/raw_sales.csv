@@ -1,0 +1,502 @@
+Date,Product,Category,Quantity,Unit Price,Region,Customer
+16/05/2026,ADJUSTABLE DESK,Furniture,4,249.00,East,Customer 023
+2026-03-11,  Xl Mouse Pad  ,Accessories,2,14.90,South,Customer 016
+31/03/2026,  Xl Mouse Pad  ,Accessories,5,,East,Customer 027
+2026-07-13,24In Monitor,Electronics,2,139.50,North,Customer 024
+2026-07-15,  Modular Shelving Unit  ,Furniture,6,€119.00,North,Customer 025
+02-04-2026,  modular shelving unit  ,Furniture,1,119.00,North,Customer 037
+06/08/2026,  HD WEBCAM  ,Electronics,4,44.90,East,Customer 006
+2026-04-14,Bluetooth Headphones,Electronics,5,79.00,East,Customer 040
+25/06/2026,office chair,Furniture,5,89.90,North,Customer 036
+09/04/2026,  xl mouse pad  ,Accessories,4,14.90,North,Customer 012
+19/06/2026,adjustable desk,Furniture,1,€249.00,South,Customer 033
+28-03-2026,ADJUSTABLE DESK,Furniture,2,€249.00,West,Customer 026
+24/06/2026,  24IN MONITOR  ,Electronics,4,139.50,Central,Customer 009
+2026-05-01,  Modular Shelving Unit  ,Furniture,3,119.00 EUR,Central,Customer 005
+20/04/2026,MODULAR SHELVING UNIT,Furniture,1,119.00 EUR,South,Customer 022
+31-07-2026,  Wireless Mouse  ,Electronics,3,€24.90,South,Customer 006
+2026-07-15,  adjustable desk  ,Furniture,1,€249.00,South,Customer 037
+22/05/2026,24In Monitor,Electronics,1,139.50 EUR,South,Customer 036
+13/05/2026,OFFICE CHAIR,Furniture,1,€89.90,Central,Customer 003
+2026-08-10,led desk lamp,Lighting,3,34.50 EUR,West,Customer 024
+25/05/2026,ADJUSTABLE DESK,Furniture,5,€249.00,South,Customer 030
+2026-06-08,Office Chair,Furniture,2,€89.90,Central,Customer 032
+2026-05-17,xl mouse pad,Accessories,3,14.90 EUR,North,Customer 004
+2026-07-24,  Led Desk Lamp  ,Lighting,3,34.50,North,
+30/03/2026,  ADJUSTABLE DESK  ,Furniture,5,249.00,North,Customer 016
+23/03/2026,hd webcam,Electronics,2,44.90 EUR,Central,Customer 022
+16-06-2026,  ADJUSTABLE DESK  ,Furniture,1,249.00 EUR,North,Customer 039
+02-06-2026,ADJUSTABLE DESK,Furniture,3,€249.00,West,Customer 007
+19/03/2026,  Wireless Mouse  ,Electronics,4,24.90 EUR,South,Customer 033
+10/04/2026,24IN MONITOR,Electronics,5,139.50 EUR,South,Customer 027
+28-03-2026,24in monitor,Electronics,3,139.50 EUR,South,Customer 022
+31-05-2026,Adjustable Desk,Furniture,2,249.00 EUR,,Customer 018
+12-08-2026,  Adjustable Desk  ,Furniture,3,249.00,West,Customer 018
+13/08/2026,  wireless mouse  ,Electronics,6,24.90 EUR,West,Customer 018
+2026-05-25,  ADJUSTABLE DESK  ,Furniture,4,249.00 EUR,West,Customer 019
+04-03-2026,  BLUETOOTH HEADPHONES  ,Electronics,3,79.00,West,Customer 010
+2026-08-24,  Bluetooth Headphones  ,Electronics,3,79.00 EUR,North,Customer 011
+03/05/2026,  XL Mouse Pad  ,Accessories,4,14.90,Central,Customer 036
+04/06/2026,  Modular Shelving Unit  ,Furniture,1,119.00 EUR,North,Customer 021
+02/06/2026,24In Monitor,Electronics,1,€139.50,East,Customer 020
+26/06/2026,bluetooth headphones,Electronics,5,79.00 EUR,West,Customer 022
+19-03-2026,  modular shelving unit  ,Furniture,6,€119.00,East,Customer 003
+2026-05-24,Wireless Mouse,Electronics,4,€24.90,North,Customer 031
+2026-05-16,Mechanical Keyboard,Electronics,1,59.90,South,Customer 030
+04-03-2026,  LED Desk Lamp  ,Lighting,3,€34.50,South,Customer 037
+2026-03-11,LED DESK LAMP,Lighting,1,34.50,East,Customer 037
+13/03/2026,BLUETOOTH HEADPHONES,Electronics,3,79.00 EUR,South,Customer 029
+21-05-2026,HD WEBCAM,Electronics,1,€44.90,Central,Customer 023
+22-04-2026,WIRELESS MOUSE,Electronics,4,€24.90,North,Customer 034
+28/03/2026,  wireless mouse  ,Electronics,2,24.90,Central,Customer 040
+2026-03-17,Modular Shelving Unit,Furniture,5,€119.00,North,Customer 029
+2026-04-21,OFFICE CHAIR,Furniture,2,89.90 EUR,South,Customer 008
+2026-04-12,Wireless Mouse,Electronics,4,24.90 EUR,North,Customer 024
+2026-05-20,  Xl Mouse Pad  ,Accessories,1,14.90,West,
+15/06/2026,hd webcam,Electronics,6,44.90,Central,Customer 022
+14-06-2026,  bluetooth headphones  ,Electronics,2,79.00,Central,Customer 017
+04/05/2026,Mechanical Keyboard,Electronics,5,€59.90,North,Customer 034
+31-03-2026,  Wireless Mouse  ,Electronics,1,24.90,West,Customer 029
+10-06-2026,Mechanical Keyboard,Electronics,1,€59.90,West,Customer 006
+14-08-2026,led desk lamp,Lighting,4,34.50 EUR,South,Customer 031
+05/08/2026,xl mouse pad,Accessories,-4,14.90,,Customer 004
+26/03/2026,BLUETOOTH HEADPHONES,Electronics,2,79.00 EUR,West,Customer 021
+22-04-2026,Mechanical Keyboard,Electronics,6,59.90,South,Customer 002
+22-06-2026,led desk lamp,Lighting,5,34.50 EUR,South,Customer 013
+25-06-2026,XL Mouse Pad,Accessories,2,14.90,West,Customer 035
+01/07/2026,24IN MONITOR,Electronics,1,€139.50,Central,Customer 004
+2026-07-18,  led desk lamp  ,Lighting,2,€34.50,North,Customer 004
+16/07/2026,  Wireless Mouse  ,Electronics,1,€24.90,Central,Customer 024
+21/06/2026,  HD Webcam  ,Electronics,3,44.90,West,Customer 010
+2026-06-24,hd webcam,Electronics,1,44.90 EUR,North,Customer 036
+2026-08-08,Adjustable Desk,Furniture,2,249.00,Central,Customer 040
+06/06/2026,  Wireless Mouse  ,Electronics,3,24.90 EUR,South,Customer 008
+06-05-2026,  Modular Shelving Unit  ,Furniture,-4,119.00,Central,Customer 037
+24/05/2026,BLUETOOTH HEADPHONES,Electronics,2,79.00 EUR,Central,Customer 028
+17-08-2026,modular shelving unit,Furniture,1,119.00 EUR,Central,Customer 026
+2026-08-26,  Led Desk Lamp  ,Lighting,4,34.50 EUR,North,Customer 002
+2026-04-17,Wireless Mouse,Electronics,1,24.90 EUR,North,Customer 023
+2026-08-10,modular shelving unit,Furniture,6,119.00,West,Customer 025
+27-08-2026,  Bluetooth Headphones  ,Electronics,5,79.00 EUR,South,Customer 004
+05-05-2026,  24in monitor  ,Electronics,6,139.50,East,Customer 037
+10/06/2026,24in monitor,Electronics,6,€139.50,West,Customer 001
+28-07-2026,MECHANICAL KEYBOARD,Electronics,4,€59.90,East,Customer 020
+27/05/2026,LED Desk Lamp,Lighting,1,34.50 EUR,East,Customer 030
+2026-07-08,  Bluetooth Headphones  ,Electronics,5,79.00,West,Customer 029
+2026-07-26,  Modular Shelving Unit  ,Furniture,4,€119.00,Central,Customer 012
+31-05-2026,Wireless Mouse,Electronics,5,24.90 EUR,Central,Customer 032
+16/05/2026,  XL MOUSE PAD  ,Accessories,3,14.90 EUR,Central,Customer 032
+25/06/2026,  Wireless Mouse  ,Electronics,3,24.90 EUR,East,Customer 040
+04/06/2026,  Modular Shelving Unit  ,Furniture,3,119.00 EUR,North,Customer 006
+11/05/2026,modular shelving unit,Furniture,1,119.00,South,Customer 006
+2026-06-28,  LED Desk Lamp  ,Lighting,4,34.50 EUR,East,Customer 036
+2026-05-01,  Wireless Mouse  ,Electronics,5,24.90,South,Customer 018
+15/03/2026,XL MOUSE PAD,Accessories,2,€14.90,North,Customer 014
+21/06/2026,  HD Webcam  ,Electronics,3,44.90,West,Customer 010
+08/08/2026,  24in monitor  ,Electronics,5,139.50,West,Customer 007
+19/08/2026,  Hd Webcam  ,Electronics,4,44.90,Central,Customer 033
+2026-04-14,Wireless Mouse,Electronics,-5,24.90 EUR,Central,Customer 028
+20-06-2026,  24In Monitor  ,Electronics,1,139.50,North,Customer 015
+2026-05-07,LED Desk Lamp,Lighting,2,34.50 EUR,East,Customer 037
+03-08-2026,  24in Monitor  ,Electronics,5,139.50,South,Customer 020
+16-05-2026,Bluetooth Headphones,Electronics,3,€79.00,East,Customer 013
+11-03-2026,Bluetooth Headphones,Electronics,2,79.00 EUR,Central,Customer 039
+18/04/2026,Led Desk Lamp,Lighting,1,34.50,Central,Customer 003
+05-03-2026,ADJUSTABLE DESK,Furniture,6,249.00,South,Customer 003
+06-07-2026,  HD WEBCAM  ,Electronics,4,44.90,,Customer 028
+2026-05-03,  modular shelving unit  ,Furniture,6,119.00 EUR,North,Customer 031
+2026-05-21,  Wireless Mouse  ,Electronics,4,24.90,West,Customer 034
+01-04-2026,wireless mouse,Electronics,4,24.90,West,Customer 016
+23/06/2026,  Bluetooth Headphones  ,Electronics,1,€79.00,West,Customer 037
+2026-03-16,  modular shelving unit  ,Furniture,1,119.00 EUR,East,Customer 026
+25/08/2026,Modular Shelving Unit,Furniture,4,119.00,East,Customer 029
+2026-06-17,24IN MONITOR,Electronics,1,139.50 EUR,South,Customer 030
+05-05-2026,adjustable desk,Furniture,6,249.00,East,Customer 017
+15/06/2026,hd webcam,Electronics,6,,Central,Customer 022
+12-08-2026,  BLUETOOTH HEADPHONES  ,Electronics,1,79.00,South,Customer 009
+23-05-2026,  24IN MONITOR  ,Electronics,3,139.50 EUR,Central,Customer 004
+2026-07-29,  24in monitor  ,Electronics,1,139.50,East,Customer 019
+25/07/2026,  Modular Shelving Unit  ,Furniture,-6,119.00,West,Customer 023
+06/08/2026,  ADJUSTABLE DESK  ,Furniture,-5,249.00 EUR,Central,Customer 007
+19-04-2026,HD WEBCAM,Electronics,5,€44.90,West,Customer 004
+2026-05-15,wireless mouse,Electronics,6,24.90 EUR,East,Customer 033
+2026-04-18,  Hd Webcam  ,Electronics,5,€44.90,North,Customer 004
+26/08/2026,  Office Chair  ,Furniture,1,89.90,Central,Customer 019
+30/05/2026,ADJUSTABLE DESK,Furniture,2,249.00,East,Customer 028
+15-04-2026,  bluetooth headphones  ,Electronics,5,79.00 EUR,Central,Customer 039
+2026-06-23,LED DESK LAMP,Lighting,5,34.50,South,Customer 021
+21-07-2026,xl mouse pad,Accessories,4,14.90 EUR,South,Customer 022
+28-07-2026,hd webcam,Electronics,2,44.90 EUR,West,Customer 009
+26-03-2026,  modular shelving unit  ,Furniture,3,119.00,South,Customer 027
+26/04/2026,  Modular Shelving Unit  ,Furniture,5,119.00,North,Customer 010
+16-04-2026,Bluetooth Headphones,Electronics,5,79.00,South,Customer 031
+2026-06-21,  HD Webcam  ,Electronics,1,€44.90,Central,Customer 015
+2026-03-11,Bluetooth Headphones,Electronics,4,79.00 EUR,South,Customer 037
+2026-07-25,Mechanical Keyboard,Electronics,3,59.90,Central,Customer 034
+05/05/2026,  wireless mouse  ,Electronics,-6,24.90 EUR,East,Customer 005
+22-06-2026,Led Desk Lamp,Lighting,6,34.50 EUR,South,Customer 020
+02/08/2026,adjustable desk,Furniture,2,249.00 EUR,Central,
+02-05-2026,adjustable desk,Furniture,1,249.00 EUR,North,Customer 020
+14/07/2026,  LED DESK LAMP  ,Lighting,1,34.50,South,Customer 015
+12/07/2026,  Office Chair  ,Furniture,5,89.90,East,Customer 027
+12-07-2026,bluetooth headphones,Electronics,6,79.00 EUR,East,Customer 021
+09-04-2026,  OFFICE CHAIR  ,Furniture,1,€89.90,East,Customer 036
+15/06/2026,  OFFICE CHAIR  ,Furniture,4,89.90 EUR,East,Customer 030
+12-05-2026,Hd Webcam,Electronics,6,44.90 EUR,North,Customer 012
+2026-04-28,Adjustable Desk,Furniture,1,249.00,Central,Customer 026
+06-06-2026,  bluetooth headphones  ,Electronics,1,79.00,West,
+28-07-2026,  Modular Shelving Unit  ,Furniture,4,119.00,East,Customer 016
+18-07-2026,modular shelving unit,Furniture,5,119.00 EUR,,Customer 032
+11/06/2026,  24in monitor  ,Electronics,2,139.50 EUR,Central,Customer 014
+2026-05-29,  xl mouse pad  ,Accessories,2,14.90 EUR,East,Customer 013
+2026-04-28,  Bluetooth Headphones  ,Electronics,5,79.00 EUR,South,Customer 034
+29/07/2026,  24in monitor  ,Electronics,1,139.50,Central,Customer 015
+16-03-2026,  Office Chair  ,Furniture,5,89.90 EUR,West,Customer 033
+23-04-2026,  Adjustable Desk  ,Furniture,1,€249.00,North,Customer 024
+18/07/2026,  bluetooth headphones  ,Electronics,2,79.00,North,Customer 015
+21-05-2026,  modular shelving unit  ,Furniture,3,119.00,East,Customer 004
+01-03-2026,  Wireless Mouse  ,Electronics,2,24.90 EUR,East,Customer 040
+14/05/2026,  office chair  ,Furniture,6,89.90 EUR,West,Customer 024
+24/07/2026,  Bluetooth Headphones  ,Electronics,3,79.00,North,Customer 014
+03/03/2026,Mechanical Keyboard,Electronics,1,59.90 EUR,Central,
+28-05-2026,Office Chair,Furniture,1,89.90,Central,Customer 008
+16-04-2026,  led desk lamp  ,Lighting,4,34.50,East,Customer 016
+2026-03-17,Wireless Mouse,Electronics,6,24.90,East,Customer 020
+2026-08-14,led desk lamp,Lighting,-1,€34.50,North,Customer 021
+24-06-2026,  24in monitor  ,Electronics,1,€139.50,,Customer 008
+29/06/2026,  Led Desk Lamp  ,Lighting,1,34.50,West,Customer 020
+01-08-2026,24IN MONITOR,Electronics,5,139.50,South,Customer 029
+2026-05-29,MODULAR SHELVING UNIT,Furniture,2,119.00,West,Customer 018
+2026-06-06,bluetooth headphones,Electronics,2,79.00 EUR,West,Customer 018
+2026-04-08,  MECHANICAL KEYBOARD  ,Electronics,2,€59.90,South,Customer 034
+02/08/2026,  Adjustable Desk  ,Furniture,2,249.00 EUR,North,Customer 021
+2026-07-25,MECHANICAL KEYBOARD,Electronics,1,€59.90,North,
+18-07-2026,wireless mouse,Electronics,6,24.90,East,Customer 038
+2026-07-15,  Modular Shelving Unit  ,Furniture,6,€119.00,North,Customer 025
+03-03-2026,  adjustable desk  ,Furniture,4,249.00,South,Customer 029
+20/08/2026,  Wireless Mouse  ,Electronics,5,24.90 EUR,North,Customer 012
+2026-04-28,Adjustable Desk,Furniture,1,249.00,Central,Customer 026
+23/08/2026,  Mechanical Keyboard  ,Electronics,5,59.90,West,Customer 009
+13-03-2026,XL Mouse Pad,Accessories,6,14.90,Central,Customer 033
+2026-06-14,  LED DESK LAMP  ,Lighting,-4,€34.50,South,Customer 025
+2026-03-28,bluetooth headphones,Electronics,3,79.00,West,Customer 024
+16-08-2026,Office Chair,Furniture,6,89.90,North,Customer 004
+2026-04-03,  XL MOUSE PAD  ,Accessories,6,€14.90,East,Customer 011
+07/04/2026,  HD Webcam  ,Electronics,6,44.90,South,Customer 014
+01-05-2026,modular shelving unit,Furniture,6,119.00,East,Customer 024
+2026-05-06,Adjustable Desk,Furniture,4,249.00 EUR,West,Customer 008
+18-05-2026,bluetooth headphones,Electronics,3,79.00,,Customer 011
+2026-08-22,  HD Webcam  ,Electronics,2,44.90 EUR,,Customer 019
+07/06/2026,  24IN MONITOR  ,Electronics,4,139.50 EUR,East,Customer 009
+27-08-2026,LED DESK LAMP,Lighting,5,34.50,South,Customer 031
+2026-06-25,  Mechanical Keyboard  ,Electronics,5,59.90,North,Customer 016
+2026-06-28,mechanical keyboard,Electronics,1,59.90,East,Customer 008
+11/04/2026,mechanical keyboard,Electronics,4,59.90,Central,Customer 040
+15/07/2026,bluetooth headphones,Electronics,1,79.00,South,Customer 017
+14-04-2026,WIRELESS MOUSE,Electronics,4,24.90,South,Customer 035
+2026-04-09,XL MOUSE PAD,Accessories,4,14.90,East,Customer 003
+01-06-2026,24In Monitor,Electronics,1,139.50,,Customer 003
+20/07/2026,  Bluetooth Headphones  ,Electronics,4,79.00,Central,Customer 009
+28/04/2026,  BLUETOOTH HEADPHONES  ,Electronics,3,79.00 EUR,East,Customer 005
+21-03-2026,  24in monitor  ,Electronics,3,€139.50,West,Customer 038
+10/07/2026,  24in Monitor  ,Electronics,3,139.50,South,Customer 029
+2026-04-06,Bluetooth Headphones,Electronics,2,79.00,South,Customer 024
+04/05/2026,24in Monitor,Electronics,-2,139.50,Central,Customer 001
+23/03/2026,Xl Mouse Pad,Accessories,2,14.90,West,Customer 034
+22/08/2026,  HD Webcam  ,Electronics,3,44.90 EUR,South,Customer 017
+2026-08-24,  led desk lamp  ,Lighting,1,34.50 EUR,East,Customer 010
+16/07/2026,xl mouse pad,Accessories,5,14.90,West,Customer 008
+2026-04-26,  XL MOUSE PAD  ,Accessories,6,14.90 EUR,South,Customer 009
+2026-05-28,24in Monitor,Electronics,4,139.50,South,Customer 016
+2026-04-11,  Mechanical Keyboard  ,Electronics,3,59.90,East,Customer 014
+05-03-2026,Xl Mouse Pad,Accessories,5,14.90 EUR,West,Customer 012
+22-07-2026,  HD WEBCAM  ,Electronics,5,44.90,West,Customer 016
+2026-04-08,  XL Mouse Pad  ,Accessories,4,14.90,Central,Customer 019
+07/04/2026,  Xl Mouse Pad  ,Accessories,-2,14.90 EUR,North,Customer 037
+2026-06-11,MECHANICAL KEYBOARD,Electronics,2,59.90,North,Customer 002
+19-08-2026,WIRELESS MOUSE,Electronics,2,24.90,North,Customer 019
+27/03/2026,ADJUSTABLE DESK,Furniture,2,€249.00,North,Customer 026
+2026-08-01,  Mechanical Keyboard  ,Electronics,1,59.90,West,Customer 019
+21-05-2026,  Bluetooth Headphones  ,Electronics,1,€79.00,East,Customer 020
+05-04-2026,  24IN MONITOR  ,Electronics,-1,€139.50,East,Customer 034
+2026-03-17,Modular Shelving Unit,Furniture,5,€119.00,North,Customer 029
+31-03-2026,mechanical keyboard,Electronics,1,59.90,East,Customer 033
+12-03-2026,Office Chair,Furniture,4,89.90 EUR,North,Customer 023
+2026-03-21,Modular Shelving Unit,Furniture,5,119.00 EUR,South,Customer 005
+2026-07-09,  bluetooth headphones  ,Electronics,4,79.00 EUR,Central,Customer 022
+2026-07-04,  led desk lamp  ,Lighting,2,34.50 EUR,North,
+12-06-2026,24IN MONITOR,Electronics,5,139.50 EUR,West,Customer 038
+15-06-2026,  BLUETOOTH HEADPHONES  ,Electronics,3,€79.00,West,Customer 032
+02/05/2026,  adjustable desk  ,Furniture,1,249.00,Central,Customer 006
+2026-03-26,  modular shelving unit  ,Furniture,3,€119.00,,Customer 019
+26-05-2026,  Adjustable Desk  ,Furniture,4,249.00 EUR,Central,Customer 026
+05/06/2026,  Modular Shelving Unit  ,Furniture,4,119.00,East,Customer 010
+16/05/2026,  HD Webcam  ,Electronics,2,44.90,East,Customer 031
+01/04/2026,  24in monitor  ,Electronics,3,139.50,North,Customer 024
+25-06-2026,  Hd Webcam  ,Electronics,6,€44.90,Central,Customer 011
+01-03-2026,wireless mouse,Electronics,1,€24.90,East,Customer 040
+11-06-2026,  Wireless Mouse  ,Electronics,2,€24.90,South,Customer 031
+2026-05-02,Adjustable Desk,Furniture,3,249.00 EUR,East,Customer 012
+30-05-2026,Adjustable Desk,Furniture,3,€249.00,Central,Customer 001
+03-08-2026,  Wireless Mouse  ,Electronics,4,24.90 EUR,East,Customer 016
+25/06/2026,  Mechanical Keyboard  ,Electronics,1,59.90 EUR,West,Customer 033
+24-08-2026,ADJUSTABLE DESK,Furniture,4,249.00 EUR,Central,Customer 037
+06/08/2026,  XL Mouse Pad  ,Accessories,1,14.90 EUR,Central,Customer 011
+16/04/2026,  xl mouse pad  ,Accessories,4,14.90,West,Customer 040
+2026-03-09,  BLUETOOTH HEADPHONES  ,Electronics,3,79.00 EUR,West,Customer 005
+2026-03-20,Office Chair,Furniture,1,89.90 EUR,East,Customer 029
+01/07/2026,adjustable desk,Furniture,6,249.00,Central,Customer 021
+2026-07-11,MECHANICAL KEYBOARD,Electronics,3,59.90 EUR,Central,Customer 018
+23/07/2026,Modular Shelving Unit,Furniture,1,119.00 EUR,South,Customer 006
+2026-06-07,  Adjustable Desk  ,Furniture,-5,249.00,South,Customer 032
+19/07/2026,MODULAR SHELVING UNIT,Furniture,-4,119.00,Central,Customer 014
+2026-07-16,adjustable desk,Furniture,2,249.00 EUR,West,Customer 016
+2026-08-16,Modular Shelving Unit,Furniture,2,€119.00,North,Customer 007
+2026-05-15,Adjustable Desk,Furniture,5,249.00 EUR,Central,Customer 025
+12/04/2026,LED Desk Lamp,Lighting,6,34.50,South,Customer 028
+26-06-2026,  ADJUSTABLE DESK  ,Furniture,2,249.00 EUR,Central,Customer 020
+26/05/2026,  Bluetooth Headphones  ,Electronics,3,79.00 EUR,South,Customer 026
+13/03/2026,BLUETOOTH HEADPHONES,Electronics,3,79.00 EUR,South,Customer 029
+2026-03-02,  24In Monitor  ,Electronics,3,139.50,South,Customer 037
+20/03/2026,Bluetooth Headphones,Electronics,2,79.00 EUR,North,Customer 022
+31-07-2026,hd webcam,Electronics,3,44.90,East,Customer 019
+25-07-2026,Bluetooth Headphones,Electronics,2,€79.00,Central,Customer 017
+2026-05-17,Wireless Mouse,Electronics,-3,24.90,North,Customer 015
+20/04/2026,  MECHANICAL KEYBOARD  ,Electronics,6,59.90 EUR,West,Customer 040
+08-08-2026,24IN MONITOR,Electronics,6,139.50,North,Customer 038
+07/07/2026,MECHANICAL KEYBOARD,Electronics,3,59.90 EUR,East,Customer 006
+15/04/2026,Office Chair,Furniture,2,89.90 EUR,,Customer 003
+21-07-2026,mechanical keyboard,Electronics,5,59.90 EUR,West,Customer 038
+08-07-2026,  Bluetooth Headphones  ,Electronics,5,79.00,East,Customer 035
+09-04-2026,  OFFICE CHAIR  ,Furniture,1,€89.90,East,Customer 036
+21-06-2026,  ADJUSTABLE DESK  ,Furniture,3,249.00 EUR,North,Customer 032
+2026-03-26,Adjustable Desk,Furniture,1,249.00 EUR,West,Customer 037
+2026-04-27,Led Desk Lamp,Lighting,3,34.50,East,Customer 029
+07/06/2026,  24IN MONITOR  ,Electronics,4,139.50 EUR,East,Customer 009
+18/03/2026,  Bluetooth Headphones  ,Electronics,-5,79.00,West,Customer 007
+24/05/2026,WIRELESS MOUSE,Electronics,5,€24.90,North,Customer 024
+2026-08-13,HD WEBCAM,Electronics,1,44.90 EUR,West,Customer 019
+2026-07-03,  24in monitor  ,Electronics,4,139.50 EUR,East,Customer 028
+23/08/2026,  MECHANICAL KEYBOARD  ,Electronics,6,€59.90,West,Customer 036
+19/08/2026,  wireless mouse  ,Electronics,4,24.90 EUR,West,Customer 040
+21/06/2026,  office chair  ,Furniture,5,€89.90,East,Customer 014
+11-08-2026,Xl Mouse Pad,Accessories,4,14.90,West,Customer 007
+22/08/2026,  mechanical keyboard  ,Electronics,3,59.90,North,Customer 025
+2026-03-17,  Office Chair  ,Furniture,5,89.90,,Customer 037
+02/03/2026,24in monitor,Electronics,4,139.50,West,Customer 006
+20-03-2026,  Hd Webcam  ,Electronics,4,44.90 EUR,East,Customer 002
+2026-04-06,  Xl Mouse Pad  ,Accessories,3,€14.90,Central,
+14/03/2026,  led desk lamp  ,Lighting,1,34.50,North,Customer 030
+24-06-2026,Adjustable Desk,Furniture,-2,249.00 EUR,East,Customer 019
+18-06-2026,  Hd Webcam  ,Electronics,6,€44.90,North,Customer 012
+24/07/2026,led desk lamp,Lighting,3,34.50,East,Customer 029
+05/05/2026,Wireless Mouse,Electronics,2,24.90,South,Customer 003
+18/07/2026,XL Mouse Pad,Accessories,2,,West,Customer 023
+03-04-2026,office chair,Furniture,2,89.90 EUR,East,Customer 008
+2026-04-28,Wireless Mouse,Electronics,5,€24.90,West,Customer 028
+15-03-2026,  Modular Shelving Unit  ,Furniture,3,119.00,East,Customer 005
+03-04-2026,  Modular Shelving Unit  ,Furniture,2,119.00,East,Customer 006
+15/04/2026,  Adjustable Desk  ,Furniture,1,249.00,Central,Customer 024
+14/05/2026,  24IN MONITOR  ,Electronics,5,139.50 EUR,North,Customer 014
+01-08-2026,  Adjustable Desk  ,Furniture,2,249.00,East,Customer 014
+13-06-2026,XL Mouse Pad,Accessories,5,14.90,West,Customer 032
+2026-08-06,  bluetooth headphones  ,Electronics,2,79.00 EUR,,Customer 013
+02/03/2026,Xl Mouse Pad,Accessories,5,14.90 EUR,Central,Customer 040
+05/07/2026,  OFFICE CHAIR  ,Furniture,1,89.90,South,Customer 025
+21-07-2026,  MODULAR SHELVING UNIT  ,Furniture,2,119.00,South,Customer 033
+13/06/2026,adjustable desk,Furniture,-4,249.00 EUR,West,Customer 029
+2026-05-13,led desk lamp,Lighting,2,€34.50,,Customer 006
+2026-05-31,24in Monitor,Electronics,-1,139.50,Central,Customer 018
+2026-03-06,modular shelving unit,Furniture,3,119.00,East,Customer 006
+2026-06-29,Led Desk Lamp,Lighting,2,€34.50,East,Customer 033
+23-05-2026,  LED DESK LAMP  ,Lighting,4,34.50,West,Customer 023
+03/04/2026,  MODULAR SHELVING UNIT  ,Furniture,1,119.00 EUR,North,Customer 025
+2026-06-19,  bluetooth headphones  ,Electronics,4,€79.00,South,Customer 027
+27-04-2026,  Mechanical Keyboard  ,Electronics,-3,59.90,Central,Customer 032
+17/07/2026,  Wireless Mouse  ,Electronics,1,24.90,North,Customer 002
+22-07-2026,Adjustable Desk,Furniture,5,249.00,East,Customer 015
+24/07/2026,Xl Mouse Pad,Accessories,6,14.90,East,Customer 039
+22-04-2026,WIRELESS MOUSE,Electronics,4,,North,Customer 034
+2026-06-10,Bluetooth Headphones,Electronics,1,79.00 EUR,Central,Customer 025
+2026-04-04,XL MOUSE PAD,Accessories,6,14.90,South,Customer 009
+2026-08-26,Modular Shelving Unit,Furniture,6,119.00 EUR,North,Customer 007
+2026-06-10,Office Chair,Furniture,2,89.90 EUR,East,Customer 040
+22/06/2026,MODULAR SHELVING UNIT,Furniture,6,119.00,North,Customer 009
+2026-04-14,  MODULAR SHELVING UNIT  ,Furniture,-5,€119.00,East,Customer 008
+15-04-2026,24IN MONITOR,Electronics,2,139.50 EUR,West,Customer 019
+25/04/2026,BLUETOOTH HEADPHONES,Electronics,5,€79.00,East,Customer 005
+2026-08-10,Adjustable Desk,Furniture,2,249.00,West,Customer 001
+09-06-2026,LED DESK LAMP,Lighting,5,34.50 EUR,West,Customer 040
+27-03-2026,24IN MONITOR,Electronics,4,139.50 EUR,North,Customer 032
+2026-07-31,office chair,Furniture,2,€89.90,East,Customer 023
+13/08/2026,  OFFICE CHAIR  ,Furniture,4,89.90 EUR,East,Customer 018
+2026-03-04,LED DESK LAMP,Lighting,1,34.50 EUR,East,Customer 038
+24/07/2026,Mechanical Keyboard,Electronics,3,59.90 EUR,West,Customer 032
+19/07/2026,  HD Webcam  ,Electronics,5,€44.90,East,Customer 005
+22-03-2026,Adjustable Desk,Furniture,3,249.00 EUR,East,Customer 029
+14/03/2026,Wireless Mouse,Electronics,5,24.90 EUR,East,Customer 009
+2026-04-25,hd webcam,Electronics,6,44.90 EUR,North,Customer 014
+2026-07-16,XL Mouse Pad,Accessories,6,14.90,Central,Customer 018
+2026-07-10,  Hd Webcam  ,Electronics,6,44.90 EUR,Central,Customer 019
+2026-04-24,Modular Shelving Unit,Furniture,2,119.00,East,Customer 036
+24/08/2026,Mechanical Keyboard,Electronics,5,59.90,East,Customer 029
+08-08-2026,mechanical keyboard,Electronics,3,59.90 EUR,South,Customer 010
+2026-04-10,  Adjustable Desk  ,Furniture,2,249.00,Central,Customer 020
+2026-04-14,Wireless Mouse,Electronics,-5,24.90 EUR,Central,Customer 028
+10/04/2026,  led desk lamp  ,Lighting,5,34.50 EUR,North,Customer 015
+07-06-2026,led desk lamp,Lighting,1,€34.50,North,Customer 011
+2026-07-24,mechanical keyboard,Electronics,3,59.90,South,Customer 006
+2026-05-05,  hd webcam  ,Electronics,1,44.90 EUR,Central,
+2026-06-13,Wireless Mouse,Electronics,5,€24.90,South,Customer 027
+13/05/2026,  Office Chair  ,Furniture,5,89.90,Central,Customer 017
+05/04/2026,LED DESK LAMP,Lighting,4,34.50,North,Customer 033
+2026-06-30,BLUETOOTH HEADPHONES,Electronics,5,79.00,North,Customer 033
+2026-08-14,  xl mouse pad  ,Accessories,3,14.90 EUR,South,Customer 032
+18-04-2026,Xl Mouse Pad,Accessories,4,14.90,North,Customer 014
+26/06/2026,  24In Monitor  ,Electronics,2,139.50 EUR,South,Customer 003
+27-04-2026,XL Mouse Pad,Accessories,3,14.90,East,Customer 032
+2026-08-14,modular shelving unit,Furniture,6,119.00 EUR,Central,Customer 012
+2026-04-30,Mechanical Keyboard,Electronics,1,59.90 EUR,Central,Customer 001
+14/04/2026,modular shelving unit,Furniture,3,119.00,,Customer 038
+14-08-2026,hd webcam,Electronics,2,44.90 EUR,Central,Customer 032
+01-08-2026,  xl mouse pad  ,Accessories,3,14.90,East,Customer 016
+2026-08-16,  Office Chair  ,Furniture,-3,89.90 EUR,South,Customer 027
+05/06/2026,  ADJUSTABLE DESK  ,Furniture,1,249.00 EUR,Central,Customer 031
+23/08/2026,Xl Mouse Pad,Accessories,3,14.90 EUR,South,Customer 011
+10-06-2026,  LED Desk Lamp  ,Lighting,2,34.50 EUR,South,Customer 036
+30-06-2026,Wireless Mouse,Electronics,6,24.90,Central,Customer 022
+2026-06-07,modular shelving unit,Furniture,4,119.00,East,Customer 034
+10-06-2026,WIRELESS MOUSE,Electronics,3,24.90,Central,Customer 025
+07/04/2026,  Xl Mouse Pad  ,Accessories,-2,14.90 EUR,North,Customer 037
+2026-06-17,  Adjustable Desk  ,Furniture,1,249.00 EUR,Central,Customer 002
+26/03/2026,  Xl Mouse Pad  ,Accessories,5,14.90 EUR,East,Customer 001
+15-04-2026,  24In Monitor  ,Electronics,6,139.50,Central,Customer 031
+14-04-2026,24in monitor,Electronics,6,€139.50,West,Customer 015
+30-06-2026,  24in Monitor  ,Electronics,6,139.50,Central,Customer 009
+2026-04-14,  office chair  ,Furniture,4,89.90 EUR,West,Customer 010
+16-04-2026,Modular Shelving Unit,Furniture,1,119.00 EUR,East,Customer 019
+23/06/2026,Adjustable Desk,Furniture,3,249.00 EUR,South,Customer 005
+03/04/2026,  Adjustable Desk  ,Furniture,6,€249.00,North,Customer 012
+31-07-2026,Xl Mouse Pad,Accessories,6,€14.90,West,Customer 007
+16-05-2026,24In Monitor,Electronics,4,139.50,East,Customer 031
+22-07-2026,HD WEBCAM,Electronics,2,44.90 EUR,East,Customer 020
+21-06-2026,  24In Monitor  ,Electronics,3,139.50 EUR,East,Customer 012
+2026-07-21,Bluetooth Headphones,Electronics,2,€79.00,West,Customer 009
+2026-05-16,wireless mouse,Electronics,5,24.90 EUR,East,Customer 036
+11-08-2026,  adjustable desk  ,Furniture,6,249.00 EUR,South,Customer 035
+2026-04-09,  WIRELESS MOUSE  ,Electronics,3,€24.90,South,Customer 023
+12-03-2026,  Modular Shelving Unit  ,Furniture,5,119.00,West,Customer 025
+2026-08-10,  Mechanical Keyboard  ,Electronics,1,59.90 EUR,South,Customer 032
+06-05-2026,  Modular Shelving Unit  ,Furniture,-4,119.00,Central,Customer 037
+02/05/2026,  Hd Webcam  ,Electronics,6,44.90,Central,Customer 003
+23-07-2026,Adjustable Desk,Furniture,4,249.00 EUR,East,Customer 016
+06-04-2026,Mechanical Keyboard,Electronics,6,59.90 EUR,North,Customer 006
+21-08-2026,Wireless Mouse,Electronics,3,24.90,South,Customer 019
+2026-03-22,MODULAR SHELVING UNIT,Furniture,2,119.00 EUR,West,Customer 033
+31/03/2026,  Xl Mouse Pad  ,Accessories,5,14.90,East,Customer 027
+18-07-2026,  Adjustable Desk  ,Furniture,5,249.00 EUR,South,Customer 022
+17/04/2026,  OFFICE CHAIR  ,Furniture,5,€89.90,Central,Customer 016
+01/05/2026,  Adjustable Desk  ,Furniture,4,249.00 EUR,West,Customer 039
+11/05/2026,24in monitor,Electronics,6,139.50 EUR,West,Customer 007
+21/04/2026,  24In Monitor  ,Electronics,5,€139.50,South,Customer 037
+2026-04-23,Xl Mouse Pad,Accessories,3,14.90 EUR,North,Customer 006
+2026-06-20,  Mechanical Keyboard  ,Electronics,6,59.90,East,Customer 031
+2026-05-06,XL Mouse Pad,Accessories,6,14.90 EUR,West,Customer 021
+2026-03-09,Mechanical Keyboard,Electronics,3,59.90,North,Customer 029
+2026-07-16,adjustable desk,Furniture,2,249.00 EUR,West,Customer 016
+07-04-2026,HD Webcam,Electronics,6,44.90 EUR,West,Customer 015
+29-07-2026,  Led Desk Lamp  ,Lighting,2,€34.50,West,Customer 004
+18-05-2026,Adjustable Desk,Furniture,1,249.00 EUR,East,Customer 026
+20-08-2026,bluetooth headphones,Electronics,1,79.00 EUR,East,Customer 004
+12/03/2026,24in Monitor,Electronics,6,€139.50,North,Customer 038
+2026-04-02,  OFFICE CHAIR  ,Furniture,5,€89.90,East,Customer 024
+2026-06-22,  XL Mouse Pad  ,Accessories,5,14.90,West,Customer 030
+03/07/2026,  WIRELESS MOUSE  ,Electronics,4,24.90,,Customer 036
+14-06-2026,  24in Monitor  ,Electronics,4,139.50,Central,Customer 014
+28/03/2026,MECHANICAL KEYBOARD,Electronics,5,59.90,Central,Customer 003
+20/05/2026,24in monitor,Electronics,3,139.50,West,Customer 032
+10-04-2026,Modular Shelving Unit,Furniture,5,119.00,Central,Customer 021
+17/08/2026,HD Webcam,Electronics,6,44.90,West,Customer 031
+02-07-2026,  Xl Mouse Pad  ,Accessories,5,14.90 EUR,North,Customer 014
+2026-05-13,  Bluetooth Headphones  ,Electronics,4,79.00,North,Customer 037
+2026-04-29,  xl mouse pad  ,Accessories,2,14.90 EUR,South,Customer 009
+30-06-2026,Modular Shelving Unit,Furniture,1,119.00,South,Customer 032
+08-05-2026,  WIRELESS MOUSE  ,Electronics,2,24.90 EUR,West,Customer 018
+06/04/2026,  24IN MONITOR  ,Electronics,6,€139.50,South,Customer 010
+22-07-2026,  modular shelving unit  ,Furniture,1,119.00,East,Customer 017
+05/03/2026,Office Chair,Furniture,5,89.90 EUR,South,Customer 037
+10-03-2026,  24in Monitor  ,Electronics,2,139.50 EUR,West,Customer 021
+16/07/2026,Adjustable Desk,Furniture,5,249.00 EUR,North,Customer 017
+28/06/2026,MODULAR SHELVING UNIT,Furniture,6,€119.00,North,Customer 006
+2026-06-19,xl mouse pad,Accessories,6,14.90 EUR,West,Customer 026
+2026-07-26,  LED Desk Lamp  ,Lighting,4,34.50,Central,Customer 018
+17/07/2026,  XL MOUSE PAD  ,Accessories,1,14.90 EUR,West,Customer 031
+16/05/2026,  HD Webcam  ,Electronics,1,,East,Customer 023
+2026-08-20,hd webcam,Electronics,3,44.90,Central,Customer 015
+13-08-2026,XL Mouse Pad,Accessories,2,14.90,North,Customer 019
+14/04/2026,wireless mouse,Electronics,3,€24.90,East,Customer 011
+2026-03-16,xl mouse pad,Accessories,1,14.90 EUR,North,Customer 005
+23/05/2026,  HD WEBCAM  ,Electronics,1,44.90,West,Customer 033
+2026-06-15,  modular shelving unit  ,Furniture,4,119.00 EUR,North,Customer 019
+12-08-2026,  Office Chair  ,Furniture,-1,89.90,West,Customer 040
+10-05-2026,MODULAR SHELVING UNIT,Furniture,-3,119.00,North,Customer 003
+24-06-2026,24IN MONITOR,Electronics,2,139.50,West,Customer 009
+2026-06-11,  office chair  ,Furniture,2,89.90,North,Customer 009
+21-06-2026,mechanical keyboard,Electronics,6,59.90 EUR,East,Customer 025
+01/05/2026,  adjustable desk  ,Furniture,3,249.00,North,Customer 030
+07-06-2026,  adjustable desk  ,Furniture,2,249.00 EUR,West,Customer 022
+2026-03-09,Mechanical Keyboard,Electronics,3,,North,Customer 029
+10-03-2026,modular shelving unit,Furniture,5,119.00 EUR,North,Customer 022
+11-05-2026,  LED Desk Lamp  ,Lighting,1,€34.50,Central,Customer 037
+2026-05-24,  mechanical keyboard  ,Electronics,6,59.90 EUR,Central,Customer 005
+03-04-2026,office chair,Furniture,2,89.90 EUR,East,Customer 008
+12-05-2026,  MODULAR SHELVING UNIT  ,Furniture,1,119.00,East,Customer 001
+2026-03-22,hd webcam,Electronics,4,44.90 EUR,Central,Customer 010
+24/06/2026,  mechanical keyboard  ,Electronics,4,59.90 EUR,West,Customer 040
+2026-07-16,Hd Webcam,Electronics,3,44.90,West,Customer 014
+04-03-2026,bluetooth headphones,Electronics,3,€79.00,East,Customer 024
+16/05/2026,  HD Webcam  ,Electronics,1,44.90,East,Customer 023
+2026-04-19,  WIRELESS MOUSE  ,Electronics,3,24.90 EUR,West,Customer 018
+13/03/2026,  adjustable desk  ,Furniture,-3,249.00,South,Customer 018
+26-03-2026,Bluetooth Headphones,Electronics,2,79.00 EUR,East,Customer 013
+26-04-2026,  modular shelving unit  ,Furniture,1,119.00 EUR,Central,Customer 038
+29/06/2026,  Xl Mouse Pad  ,Accessories,2,14.90,East,Customer 006
+2026-07-17,  adjustable desk  ,Furniture,1,249.00,Central,Customer 027
+2026-08-11,HD Webcam,Electronics,2,44.90,West,Customer 019
+25-03-2026,  MODULAR SHELVING UNIT  ,Furniture,6,119.00,South,Customer 012
+14-06-2026,  Mechanical Keyboard  ,Electronics,6,59.90 EUR,West,Customer 009
+13-03-2026,  XL MOUSE PAD  ,Accessories,-5,14.90 EUR,North,Customer 027
+14-04-2026,XL Mouse Pad,Accessories,5,14.90 EUR,East,Customer 025
+26-03-2026,  modular shelving unit  ,Furniture,3,119.00,South,Customer 027
+06-03-2026,  mechanical keyboard  ,Electronics,2,59.90 EUR,North,Customer 015
+2026-05-01,HD WEBCAM,Electronics,3,44.90 EUR,West,Customer 036
+2026-06-12,  office chair  ,Furniture,1,89.90 EUR,Central,Customer 029
+2026-07-08,MODULAR SHELVING UNIT,Furniture,3,119.00,Central,Customer 038
+2026-07-16,  XL MOUSE PAD  ,Accessories,4,14.90,East,Customer 012
+2026-04-04,led desk lamp,Lighting,5,34.50,Central,Customer 024
+27-06-2026,  adjustable desk  ,Furniture,4,249.00,East,Customer 027
+2026-05-30,  24In Monitor  ,Electronics,1,139.50,Central,Customer 018
+15-04-2026,24IN MONITOR,Electronics,2,139.50 EUR,West,Customer 019
+2026-06-24,  led desk lamp  ,Lighting,6,34.50,South,Customer 016
+2026-05-16,wireless mouse,Electronics,5,24.90 EUR,East,Customer 036
+2026-08-17,Office Chair,Furniture,6,89.90 EUR,East,Customer 034
+20/06/2026,modular shelving unit,Furniture,1,119.00 EUR,North,Customer 006
+24/04/2026,  LED Desk Lamp  ,Lighting,1,34.50,East,Customer 036
+06-06-2026,Modular Shelving Unit,Furniture,5,119.00,North,Customer 008
+18/07/2026,XL Mouse Pad,Accessories,2,€14.90,West,Customer 023
+05/05/2026,  MECHANICAL KEYBOARD  ,Electronics,6,59.90 EUR,West,Customer 011
+13/05/2026,XL Mouse Pad,Accessories,2,14.90,East,Customer 040
+04/05/2026,  LED Desk Lamp  ,Lighting,5,34.50,East,Customer 038
+2026-06-01,Office Chair,Furniture,6,89.90,North,Customer 021
+17-08-2026,  Modular Shelving Unit  ,Furniture,1,119.00 EUR,South,Customer 011
+13-04-2026,  xl mouse pad  ,Accessories,1,14.90,Central,Customer 022
+20/03/2026,  led desk lamp  ,Lighting,4,34.50 EUR,South,Customer 029
+2026-08-24,  Bluetooth Headphones  ,Electronics,6,79.00 EUR,North,Customer 032
+22/07/2026,  BLUETOOTH HEADPHONES  ,Electronics,5,79.00,South,Customer 035
+2026-04-15,  MODULAR SHELVING UNIT  ,Furniture,2,119.00 EUR,South,
+26/08/2026,  XL MOUSE PAD  ,Accessories,4,€14.90,Central,Customer 006
+10/08/2026,24in Monitor,Electronics,4,139.50 EUR,North,Customer 001
+2026-08-13,  Mechanical Keyboard  ,Electronics,2,59.90 EUR,West,Customer 016
+29-06-2026,Xl Mouse Pad,Accessories,3,14.90 EUR,West,Customer 014
+29-07-2026,Mechanical Keyboard,Electronics,2,59.90 EUR,South,Customer 014
+2026-08-15,  Adjustable Desk  ,Furniture,3,249.00 EUR,Central,Customer 018
